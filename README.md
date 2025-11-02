@@ -2,8 +2,7 @@
 
 A machine learning-powered drug recommendation system that predicts appropriate medication based on patient characteristics.
 
-## Author
-**Karan Singh**
+App link: https://ml-project-6b90.onrender.com
 
 ## Overview
 This application uses machine learning algorithms to recommend drugs based on patient demographics, cholesterol levels, blood pressure, and sodium-to-potassium ratio. The system achieves high accuracy using various ML models including Bagging Classifier, Decision Tree, Random Forest, KNN, and SVM.
